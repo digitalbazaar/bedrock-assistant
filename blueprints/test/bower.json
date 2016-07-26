@@ -1,0 +1,14 @@
+{
+  "name": "$MODULE_NAME-test",
+  "version": "0.1.1-dev",
+  "moduleType": ["amd"],
+  "ignore": [
+    "bower_components",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+  "dependencies": {
+    "bedrock-angular": "^2.0.0"
+  }
+}

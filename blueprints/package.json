@@ -1,0 +1,17 @@
+{
+  "name": "$MODULE_NAME",
+  "version": "0.1.1-dev",
+  "description": "$MODULE_NAME module",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "node test/test.js test",
+    "start": "node app/app.js"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "bedrock": "^1.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}

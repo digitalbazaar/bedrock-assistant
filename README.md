@@ -1,2 +1,3 @@
 # bedrock-assistant
-Bedrock Assistant
+
+bedrock-assistant description goes here.

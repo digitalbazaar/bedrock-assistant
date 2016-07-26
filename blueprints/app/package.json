@@ -1,0 +1,13 @@
+{
+  "name": "$MODULE_NAME-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "bedrock": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

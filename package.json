@@ -1,0 +1,15 @@
+{
+  "name": "bedrock-assistant",
+  "version": "0.1.1-dev",
+  "description": "bedrock-assistant module",
+  "bin": {
+    "bedrock": "./app.js"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+    "bedrock": "^1.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
