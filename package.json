@@ -5,7 +5,11 @@
   "bin": {
     "bedrock": "./app.js"
   },
-  "main": "./lib/index",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-assistant"
+  },
   "dependencies": {
     "bedrock": "^1.0.0"
   },
