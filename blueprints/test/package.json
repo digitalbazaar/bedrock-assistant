@@ -1,18 +1,11 @@
 {
-  "name": "$MODULE_NAME-test",
-  "version": "0.1.1-dev",
-  "description": "$MODULE_NAME test module",
+  "name": "",
+  "version": "0.0.1-0",
+  "description": "",
   "scripts": {
-    "test": "node test/test.js test",
-    "start": "node app/app.js"
+    "test": "node --preserve-symlinks test.js test"
   },
   "dependencies": {
-    "bedrock": "^1.0.0"
-  },
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "chai-as-promised": "^5.3.0",
-    "mocha": "^2.5.0",
-    "request": "~2.55.0"
+    "bedrock-test": "^1.0.0"
   }
 }
