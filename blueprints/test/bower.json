@@ -1,6 +1,6 @@
 {
   "name": "$MODULE_NAME-test",
-  "version": "0.1.1-dev",
+  "version": "0.0.1-0",
   "moduleType": ["amd"],
   "ignore": [
     "bower_components",
